@@ -6,6 +6,8 @@ body{
     height: 100vh;
     background-image: url('./images/20250218_141632.jpg');
     background-size: cover;
+    background-repeat:no-repeat;
+    background-position: top;
     padding: 2.5%;
 
 }
