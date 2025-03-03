@@ -18,7 +18,7 @@ p {
 .queens-container {
     display: flex; /* Use flexbox to arrange images side by side */
     justify-content: center; /* Center the items */
-    gap: 145px;
+    gap: 30px;
     margin: 20px;
     
 }
