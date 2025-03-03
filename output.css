@@ -20,7 +20,7 @@ p {
     justify-content: center; /* Center the items */
     gap: 145px;
     margin: 20px;
-    flex-wrap: wrap;
+    
 }
 
 .queens {
