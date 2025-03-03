@@ -35,3 +35,15 @@ img {
     object-fit: cover; /* Ensure the images cover the circular area */
     border: 2px solid #ccc; /* Optional: border around images */
 }
+
+@media (max-width: 768px) {
+    img {
+        max-width: 200px; /* Resize images for medium screens */
+    }
+}
+
+@media (max-width: 480px) {
+    img {
+        max-width: 150px; /* Resize images for small screens */
+    }
+}
